@@ -19,7 +19,7 @@ connectDB();
 app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://auth-app-lyart.vercel.app"
+    "https://auth-app-aszu.vercel.app"
   ],
   credentials: true
 }));
